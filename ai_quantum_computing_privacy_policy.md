@@ -3,7 +3,7 @@
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janaire.dev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-quantum-computing-privacy/
 
 ---
@@ -83,5 +83,5 @@ We may periodically revise this Privacy Policy to reflect app enhancements or le
 For questions, feedback, or inquiries regarding this Privacy Policy, please reach out to:
 
 **Developer:** Tshiamo Jantjie  
-**Email:** tshiajan@gmail.com  
+**Email:** janaire.dev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-quantum-computing-privacy/
